@@ -1,6 +1,6 @@
 # crud_flutter
 
-A new Flutter project.
+CRUD sederhana dengan ditambah fitur search dengan api db mysql
 
 ## Getting Started
 
